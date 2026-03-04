@@ -8,8 +8,8 @@ You will also find links to my open source projects that are motivated by the Po
 
 ### Projects
 
-| Project | Time Period | Engine | My Role | Itch |
-| :---: | :---: | :---: | :---: | :---: |
+| Project | Time Period | Engine | Itch |
+| :---: | :---: | :---: | :---: |
 | Polarity² | | Godot | |
 | Flungus: FrightClub | | Unity | |
 | The Sealed King | | UnrealEngine | |
