@@ -10,6 +10,6 @@ You will also find links to my open source projects that are motivated by the Po
 
 | Project | Time Period | Engine | My Role | Itch |
 | :---: | :---: | :---: | :---: | :---: |
-| | | | |
-| | | | |
-| | | | |
+| Polarity² | | | |
+| Flungus: FrightClub | | | |
+| The Sealed King | | | |
