@@ -8,8 +8,8 @@ You will also find links to my open source projects that are motivated by the Po
 
 ### Projects
 
-| Project             | Time Period     | Engine       | Itch                                    |
-| :---:               | :---:           | :---:        | :---:                                   |
-| Polarity²   	      | First Semester  | Godot        | https://s4g.itch.io/polarity            |
-| Flungus: FrightClub | Second Semester | Unity        | https://s4g.itch.io/flungus-fright-club |
-| The Sealed King     | Third Semester  | UnrealEngine | https://s4g.itch.io/the-sealed-king     |
+| Project                                                                   | Time Period     | Engine       | Itch                                    |
+| :---:                                                                     | :---:           | :---:        | :---:                                   |
+| [Polarity²](https://github.com/Tom-Schueler/Polarity-Squared)   	        | First Semester  | Godot        | https://s4g.itch.io/polarity            |
+| [Flungus: FrightClub](https://github.com/Tom-Schueler/Flungus-FrightClub) | Second Semester | Unity        | https://s4g.itch.io/flungus-fright-club |
+| [The Sealed King](https://github.com/Tom-Schueler/The-Sealed-King)        | Third Semester  | UnrealEngine | https://s4g.itch.io/the-sealed-king     |
