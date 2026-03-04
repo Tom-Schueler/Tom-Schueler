@@ -5,6 +5,10 @@ This profile is ment only to present my portfolio in context to the projects i h
 
 You will also find links to my open source projects that are motivated by the Portfolio-Pieces respectively. This way i hope to display the learnings i have made during the 10-week project phase.
 
+### About Me
+
+TODO: what should i put here? 
+
 
 ### Projects
 
