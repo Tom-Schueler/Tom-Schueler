@@ -10,6 +10,6 @@ You will also find links to my open source projects that are motivated by the Po
 
 | Project | Time Period | Engine | Itch |
 | :---: | :---: | :---: | :---: |
-| Polarity² | | Godot | https://s4g.itch.io/polarity |
-| Flungus: FrightClub | | Unity | https://s4g.itch.io/flungus-fright-club |
-| The Sealed King | | UnrealEngine | https://s4g.itch.io/the-sealed-king |
+| Polarity² | First Semester | Godot | https://s4g.itch.io/polarity |
+| Flungus: FrightClub | Second Semester | Unity | https://s4g.itch.io/flungus-fright-club |
+| The Sealed King | Third Semester | UnrealEngine | https://s4g.itch.io/the-sealed-king |
