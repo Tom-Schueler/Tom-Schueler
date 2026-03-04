@@ -17,3 +17,8 @@ TODO: what should i put here?
 | [Polarity²](https://github.com/Tom-Schueler/Polarity-Squared)   	        | First Semester  | Godot        | https://s4g.itch.io/polarity            |
 | [Flungus: FrightClub](https://github.com/Tom-Schueler/Flungus-FrightClub) | Second Semester | Unity        | https://s4g.itch.io/flungus-fright-club |
 | [The Sealed King](https://github.com/Tom-Schueler/The-Sealed-King)        | Third Semester  | UnrealEngine | https://s4g.itch.io/the-sealed-king     |
+
+
+### If You Care
+
+TODO: In my freetime...
