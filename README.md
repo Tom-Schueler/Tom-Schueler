@@ -8,7 +8,7 @@ You will also find links to my open-source projects that are motivated by the po
 ### About Me
 I am a Game Engineer currently studying at the _School for Games (S4G)_. I am confident in working with Unity (C#) and Unreal Engine (C++). My main capabilities lie in Gameplay and GameSystem Programming, although I also have some experience in UI and Tools Programming. 
 
-My [_Serializables_](https://github.com/KEKWdetlef) and [_Scene Management_](https://github.com/KEKWdetlef) Unity packages showcase my abilities in Tool and GameSystem Programming the best. My knowledge in Gameplay Programming is strongly underlined by the [_Combat Action Nodes_](https://github.com/KEKWdetlef) Unreal Engine Plugin. The projects just listed are part of my private GitHub.
+My [_Serializables_](https://github.com/KEKWdetlef) and [_Scene Management_](https://github.com/KEKWdetlef) Unity packages showcase my abilities in Tool and GameSystem Programming the best. My knowledge in Gameplay Programming is strongly underlined by the [_Combat Action Nodes_](https://github.com/KEKWdetlef) Unreal Engine Plugin.
 
 
 ### Projects
