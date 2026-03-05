@@ -18,8 +18,3 @@ My [_Serializables_](https://github.com/KEKWdetlef) and [_Scene Management_](htt
 | [The Sealed King](https://github.com/Tom-Schueler/The-Sealed-King)        | Third Semester  | UnrealEngine | https://s4g.itch.io/the-sealed-king     |
 | [Flungus: FrightClub](https://github.com/Tom-Schueler/Flungus-FrightClub) | Second Semester | Unity        | https://s4g.itch.io/flungus-fright-club |
 | [Polarity²](https://github.com/Tom-Schueler/Polarity-Squared)   	        | First Semester  | Godot        | https://s4g.itch.io/polarity            |
-
-
-### In my freetime...
-
-TODO: ...continue
