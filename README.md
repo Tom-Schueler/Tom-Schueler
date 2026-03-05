@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-### Short disclaimer beforehand.
-This profile is meant only to present my portfolio in the context of the projects I worked on during my education at the "S4G School for Games". The projects are presented in the state they reached at the end of the 10-week project phase. If you want to take a look at some additional projects I am working on, I suggest looking here → https://github.com/KEKWdetlef.
+### Short disclaimer beforehand
+This profile is meant only to present my portfolio in the context of the projects I worked on during my education at the _S4G School for Games_. The projects are presented in the state they reached at the end of the 10-week project phase. If you want to take a look at some additional projects I am working on, I suggest looking here → https://github.com/KEKWdetlef.
 
 You will also find links to my open-source projects that are motivated by the portfolio pieces. This way, I hope to display the learnings I made during the 10-week project phase.
 
 ### About Me
-I am a Game Engineer currently studying at the _School for Games (S4G)_. I am confident in working with Unity (C#) and Unreal Engine (C++). My main capabilities lie in Gameplay and GameSystem Programming, although I also have some experience in UI and Tools Programming. 
+I am a Game Engineer currently studying at the _School for Games (S4G)_. I am confident working with Unity (C#) and Unreal Engine (C++). My main capabilities lie in Gameplay and Game System Programming, although I also have some experience in UI and Tools Programming. 
 
-My [_Serializables_](https://github.com/KEKWdetlef) and [_Scene Management_](https://github.com/KEKWdetlef) Unity packages showcase my abilities in Tool and GameSystem Programming the best. My knowledge in Gameplay Programming is strongly underlined by the [_Combat Action Nodes_](https://github.com/KEKWdetlef) Unreal Engine Plugin.
+My [_Serializables_](https://github.com/KEKWdetlef) and [_Scene Management_](https://github.com/KEKWdetlef) Unity packages showcase my abilities in Tool and Game System Programming the best. My knowledge in Gameplay Programming is strongly demonstrated by the [_Combat Action Nodes_](https://github.com/KEKWdetlef) Unreal Engine plugin.
 
 
 ### Projects
