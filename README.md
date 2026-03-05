@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### Short disclamer beforehand.
-This profile is ment only to present my portfolio in context to the projects i have worked on during my education at the "S4G School for Games". The projects are presented in the state they reached in the 10-week project phase. If you want to take a look at some additional projects i am working on i suggest looking here -> https://github.com/KEKWdetlef. 
+### Short disclaimer beforehand.
+This profile is meant only to present my portfolio in the context of the projects I worked on during my education at the "S4G School for Games". The projects are presented in the state they reached at the end of the 10-week project phase. If you want to take a look at some additional projects I am working on, I suggest looking here → https://github.com/KEKWdetlef.
 
-You will also find links to my open source projects that are motivated by the Portfolio-Pieces respectively. This way i hope to display the learnings i have made during the 10-week project phase.
+You will also find links to my open-source projects that are motivated by the portfolio pieces. This way, I hope to display the learnings I made during the 10-week project phase.
 
 ### About Me
 
