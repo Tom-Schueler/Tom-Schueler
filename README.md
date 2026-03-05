@@ -6,8 +6,8 @@ This profile is meant only to present my portfolio in the context of the project
 You will also find links to my open-source projects that are motivated by the portfolio pieces. This way, I hope to display the learnings I made during the 10-week project phase.
 
 ### About Me
-
-TODO: what should i put here? 
+I am a Game Engineer currently studying at the _School for Games (S4G)_. I am confident in working with Unity (C#) and Unreal Engine (C++). My main capabilities lie in Gameplay and GameSystem Programming, although I also have some experience in UI and Tools Programming. 
+My [_Serializables_](https://github.com/KEKWdetlef) and [_Scene Management_](https://github.com/KEKWdetlef) Unity packages showcase my abilities in Tool and GameSystem Programming the best. My knowledge in Gameplay Programming is strongly underlined by the [_Combat Action Nodes_](https://github.com/KEKWdetlef) Unreal Engine Plugin.
 
 
 ### Projects
